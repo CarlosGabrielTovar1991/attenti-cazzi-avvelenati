@@ -1,0 +1,3 @@
+Titolo del gioco: Attenti! Cazzi avvelenati.
+
+Obbietivo: Aiuta a Samantha a raccogliere il budget del suo cliente per sviluppare i suoi progetti. Il cliente ha molti soldi e può lanciare sia sacchi di banconote che monete d'oro. Vinci punti raccogliendo più soldi che puoi, ma fai attenzione, a volte il cliente si spinge oltre e ti lancia cazzi avvelenati, non raccogliere nessuno o perderai il gioco.
